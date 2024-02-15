@@ -11,9 +11,9 @@ PHP Test  - Создания своих тестов
 - PHP версии 7.4 или выше
 - Git
 
-### Установка
+##### 1) Клонировать репозиторий
 
-git clone https://github.com/yourusername/yourprojectname.git
+    git clone https://github.com/mi-bogdan/php_test.git
 
 После чего переместить проект в OpenServer и открыть его 
 
